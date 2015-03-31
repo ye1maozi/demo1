@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<skills>
+	<skill id="1" type="0" mp="1" lvl="1"/>
+	<skill id="2" type="0" mp="2" lvl="2"/>
+	<skill id="3" type="0" mp="3" lvl="3"/>
+	<skill id="4" type="0" mp="4" lvl="4"/>
+	<skill id="5" type="0" mp="5" lvl="5"/>
+	
+	<skill id="11" type="1" mp="0" lvl="1"/>
+	<skill id="12" type="1" mp="1" lvl="2"/>
+	<skill id="13" type="1" mp="2" lvl="3"/>
+	<skill id="14" type="1" mp="3" lvl="4"/>
+	<skill id="15" type="1" mp="4" lvl="5"/>
+	
+	<skill id="21" type="2" mp="0" lvl="1" force="1"  />
+</skills>
